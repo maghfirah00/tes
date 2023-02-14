@@ -1,1 +1,2 @@
 text2 branch menu1
+tambah dari git di branch menu1
